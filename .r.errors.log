@@ -1,0 +1,198 @@
+2018-02-10 09:28:01 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: no Go files in /home/sam/go/src/github.com/samrocksc/happeningapi
+exit status 1 
+ 2018-02-10 09:28:01 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: no Go files in /home/sam/go/src/github.com/samrocksc/happeningapi
+exit status 1 
+ 2018-02-10 09:36:40 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+handlers.auth.go:1:1: expected 'package', found 'EOF'
+2018-02-10 09:36:40 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+handlers.auth.go:1:1: expected 'package', found 'EOF'
+2018-02-10 09:36:40 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+handlers.auth.go:1:1: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 09:36:40 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+handlers.auth.go:1:1: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 09:39:42 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:1: expected 'package', found 'import'
+2018-02-10 09:39:42 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:1: expected 'package', found 'import'
+2018-02-10 09:39:42 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:1: expected 'package', found 'import'
+exit status 1 
+ 2018-02-10 09:39:43 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:1: expected 'package', found 'import'
+exit status 1 
+ 2018-02-10 09:40:08 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+models.go:1:1: expected 'package', found 'EOF'
+2018-02-10 09:40:08 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+models.go:1:1: expected 'package', found 'EOF'
+2018-02-10 09:40:09 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+models.go:1:1: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 09:40:09 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+models.go:1:1: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 09:40:26 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:2: expected 'package', found 'EOF'
+2018-02-10 09:40:26 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:2: expected 'package', found 'EOF'
+2018-02-10 09:40:26 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:2: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 09:40:26 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:2: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 09:41:30 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:2: expected 'package', found 'EOF'
+2018-02-10 09:41:30 HAPPENING : there are some errors in 
+ can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:2: expected 'package', found 'EOF'
+2018-02-10 09:41:30 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:2: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 09:41:30 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+main_test.go:1:2: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 09:41:48 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+models.go:1:1: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 09:41:48 HAPPENING : can't load package: package github.com/samrocksc/happeningapi: 
+models.go:1:1: expected 'package', found 'EOF'
+exit status 1 
+ 2018-02-10 10:06:12 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi_test
+./models_test.go:8:12: undefined: SampleUser
+./models_test.go:9:2: undefined: ok
+./models_test.go:10:2: undefined: equals
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:06:46 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:8:9: cannot assign 1 values to 2 variables
+./models_test.go:9:2: undefined: ok
+./models_test.go:10:2: undefined: equals
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:07:12 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:9:2: undefined: ok
+./models_test.go:9:8: undefined: err
+./models_test.go:10:2: undefined: equals
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:07:15 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:9:2: undefined: equals
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:07:22 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:9:2: undefined: ok
+./models_test.go:9:8: undefined: err
+./models_test.go:10:2: undefined: equals
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:07:38 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:10:14: undefined: SampleUSer
+./models_test.go:11:2: undefined: ok
+./models_test.go:11:8: undefined: err
+./models_test.go:12:2: undefined: equals
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:07:46 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:10:13: type SampleUser is not an expression
+./models_test.go:11:2: undefined: ok
+./models_test.go:11:8: undefined: err
+./models_test.go:12:2: undefined: equals
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:07:59 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:9:2: undefined: ok
+./models_test.go:9:8: undefined: err
+./models_test.go:10:2: undefined: equals
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:09:00 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:8:9: cannot assign 1 values to 2 variables
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:10:09 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:9:5: undefined: err
+./models_test.go:10:39: undefined: err
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:10:35 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:10:39: undefined: err
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:11:12 HAPPENING : there are some errors in 
+ vet: models_test.go: models_test.go:9:14: illegal rune literal
+vet: no files checked
+exit status 1
+2018-02-10 10:11:12 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+models_test.go:9:14: illegal rune literal
+FAIL	github.com/samrocksc/happeningapi [setup failed]
+2018-02-10 10:11:19 HAPPENING : there are some errors in 
+ vet: models_test.go: models_test.go:9:14: illegal rune literal
+vet: no files checked
+exit status 1
+2018-02-10 10:11:19 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+models_test.go:9:14: illegal rune literal
+FAIL	github.com/samrocksc/happeningapi [setup failed]
+2018-02-10 10:11:26 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:10:13: type SampleUser is not an expression
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:11:53 HAPPENING : there are some errors in 
+ vet: models_test.go: models_test.go:10:14: illegal rune literal
+vet: no files checked
+exit status 1
+2018-02-10 10:11:53 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+models_test.go:10:14: illegal rune literal
+FAIL	github.com/samrocksc/happeningapi [setup failed]
+2018-02-10 10:11:59 HAPPENING : there are some errors in 
+ vet: models_test.go: models_test.go:10:13: illegal rune literal
+vet: no files checked
+exit status 1
+2018-02-10 10:11:59 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+models_test.go:10:13: illegal rune literal
+FAIL	github.com/samrocksc/happeningapi [setup failed]
+2018-02-10 10:12:56 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:10:20: type SampleUser is not an expression
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:15:06 HAPPENING : there are some errors in 
+ vet: models_test.go: models_test.go:12:23: missing ',' before newline in composite literal
+vet: no files checked
+exit status 1
+2018-02-10 10:15:06 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+models_test.go:12:23: missing ',' before newline in composite literal
+FAIL	github.com/samrocksc/happeningapi [setup failed]
+2018-02-10 10:17:23 HAPPENING : there are some errors in 
+ Say hi
+{"Name":"blah"}
+--- FAIL: TestSampleUserTakesNameString (0.00s)
+	models_test.go:17: SampleUser() failed
+FAIL
+exit status 1
+FAIL	github.com/samrocksc/happeningapi	0.003s
+2018-02-10 10:24:16 HAPPENING : there are some errors in 
+ # github.com/samrocksc/happeningapi
+./models_test.go:10:12: invalid operation: u.Name != reflect.TypeOf("string") (mismatched types string and reflect.Type)
+FAIL	github.com/samrocksc/happeningapi [build failed]
+2018-02-10 10:25:10 HAPPENING : there are some errors in 
+ Say hi
+--- FAIL: TestSampleUserTakesNameString (0.00s)
+	models_test.go:11: SampleUser() failed
+FAIL
+exit status 1
+FAIL	github.com/samrocksc/happeningapi	0.001s

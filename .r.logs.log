@@ -1,0 +1,187 @@
+2018-02-10 09:28:01 HAPPENING : Watching 0 files/s 1 folder/s 
+ 2018-02-10 09:28:01 HAPPENING : Install started 
+ 2018-02-10 09:28:01 HAPPENING : Build started 
+ 2018-02-10 09:36:40 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/main_test.go 
+ 2018-02-10 09:36:40 HAPPENING : Install started 
+ 2018-02-10 09:36:40 HAPPENING : Build started 
+ 2018-02-10 09:39:42 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/main.go 
+ 2018-02-10 09:39:42 HAPPENING : Install started 
+ 2018-02-10 09:39:43 HAPPENING : Build started 
+ 2018-02-10 09:40:08 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/main_test.go 
+ 2018-02-10 09:40:08 HAPPENING : Install started 
+ 2018-02-10 09:40:09 HAPPENING : Build started 
+ 2018-02-10 09:40:26 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/main_test.go 
+ 2018-02-10 09:40:26 HAPPENING : Install started 
+ 2018-02-10 09:40:26 HAPPENING : Build started 
+ 2018-02-10 09:41:30 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/main.go 
+ 2018-02-10 09:41:30 HAPPENING : Install started 
+ 2018-02-10 09:41:30 HAPPENING : Build started 
+ 2018-02-10 09:41:48 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/main_test.go 
+ 2018-02-10 09:41:48 HAPPENING : Install started 
+ 2018-02-10 09:41:48 HAPPENING : Build started 
+ 2018-02-10 09:42:43 HAPPENING : Watching 1 files/s 1 folder/s 
+ 2018-02-10 09:42:43 HAPPENING : Install started 
+ 2018-02-10 09:42:43 HAPPENING : Install in 0.301 s 
+ 2018-02-10 09:42:43 HAPPENING : Build started 
+ 2018-02-10 09:42:43 HAPPENING : Build in 0.246 s 
+ 2018-02-10 09:44:40 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/main_test.go 
+ 2018-02-10 09:44:41 HAPPENING : Install started 
+ 2018-02-10 09:44:41 HAPPENING : Install in 0.105 s 
+ 2018-02-10 09:44:41 HAPPENING : Build started 
+ 2018-02-10 09:44:41 HAPPENING : Build in 0.186 s 
+ 2018-02-10 10:06:12 HAPPENING : Watching 4 files/s 1 folder/s 
+ 2018-02-10 10:06:12 HAPPENING : Install started 
+ 2018-02-10 10:06:12 HAPPENING : Install in 0.268 s 
+ 2018-02-10 10:06:12 HAPPENING : Build started 
+ 2018-02-10 10:06:13 HAPPENING : Build in 0.225 s 
+ 2018-02-10 10:06:45 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:06:46 HAPPENING : Install started 
+ 2018-02-10 10:06:46 HAPPENING : Install in 0.087 s 
+ 2018-02-10 10:06:46 HAPPENING : Build started 
+ 2018-02-10 10:06:46 HAPPENING : Build in 0.217 s 
+ 2018-02-10 10:07:12 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:07:12 HAPPENING : Install started 
+ 2018-02-10 10:07:12 HAPPENING : Install in 0.071 s 
+ 2018-02-10 10:07:12 HAPPENING : Build started 
+ 2018-02-10 10:07:13 HAPPENING : Build in 0.192 s 
+ 2018-02-10 10:07:15 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:07:15 HAPPENING : Install started 
+ 2018-02-10 10:07:15 HAPPENING : Install in 0.068 s 
+ 2018-02-10 10:07:15 HAPPENING : Build started 
+ 2018-02-10 10:07:15 HAPPENING : Build in 0.204 s 
+ 2018-02-10 10:07:22 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:07:22 HAPPENING : Install started 
+ 2018-02-10 10:07:22 HAPPENING : Install in 0.058 s 
+ 2018-02-10 10:07:22 HAPPENING : Build started 
+ 2018-02-10 10:07:23 HAPPENING : Build in 0.231 s 
+ 2018-02-10 10:07:38 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:07:38 HAPPENING : Install started 
+ 2018-02-10 10:07:38 HAPPENING : Install in 0.063 s 
+ 2018-02-10 10:07:39 HAPPENING : Build started 
+ 2018-02-10 10:07:39 HAPPENING : Build in 0.289 s 
+ 2018-02-10 10:07:46 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:07:46 HAPPENING : Install started 
+ 2018-02-10 10:07:46 HAPPENING : Install in 0.054 s 
+ 2018-02-10 10:07:46 HAPPENING : Build started 
+ 2018-02-10 10:07:47 HAPPENING : Build in 0.266 s 
+ 2018-02-10 10:07:58 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:07:59 HAPPENING : Install started 
+ 2018-02-10 10:07:59 HAPPENING : Install in 0.070 s 
+ 2018-02-10 10:07:59 HAPPENING : Build started 
+ 2018-02-10 10:07:59 HAPPENING : Build in 0.305 s 
+ 2018-02-10 10:08:59 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:09:00 HAPPENING : Install started 
+ 2018-02-10 10:09:00 HAPPENING : Install in 0.079 s 
+ 2018-02-10 10:09:00 HAPPENING : Build started 
+ 2018-02-10 10:09:00 HAPPENING : Build in 0.207 s 
+ 2018-02-10 10:10:09 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:10:09 HAPPENING : Install started 
+ 2018-02-10 10:10:09 HAPPENING : Install in 0.102 s 
+ 2018-02-10 10:10:09 HAPPENING : Build started 
+ 2018-02-10 10:10:09 HAPPENING : Build in 0.211 s 
+ 2018-02-10 10:10:34 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:10:35 HAPPENING : Install started 
+ 2018-02-10 10:10:35 HAPPENING : Install in 0.059 s 
+ 2018-02-10 10:10:35 HAPPENING : Build started 
+ 2018-02-10 10:10:35 HAPPENING : Build in 0.182 s 
+ 2018-02-10 10:10:46 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:10:46 HAPPENING : Install started 
+ 2018-02-10 10:10:46 HAPPENING : Install in 0.055 s 
+ 2018-02-10 10:10:46 HAPPENING : Build started 
+ 2018-02-10 10:10:46 HAPPENING : Build in 0.187 s 
+ 2018-02-10 10:11:12 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:11:12 HAPPENING : Install started 
+ 2018-02-10 10:11:12 HAPPENING : Install in 0.088 s 
+ 2018-02-10 10:11:12 HAPPENING : Build started 
+ 2018-02-10 10:11:12 HAPPENING : Build in 0.275 s 
+ 2018-02-10 10:11:18 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:11:19 HAPPENING : Install started 
+ 2018-02-10 10:11:19 HAPPENING : Install in 0.081 s 
+ 2018-02-10 10:11:19 HAPPENING : Build started 
+ 2018-02-10 10:11:19 HAPPENING : Build in 0.222 s 
+ 2018-02-10 10:11:26 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:11:26 HAPPENING : Install started 
+ 2018-02-10 10:11:26 HAPPENING : Install in 0.092 s 
+ 2018-02-10 10:11:26 HAPPENING : Build started 
+ 2018-02-10 10:11:26 HAPPENING : Build in 0.198 s 
+ 2018-02-10 10:11:53 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:11:53 HAPPENING : Install started 
+ 2018-02-10 10:11:53 HAPPENING : Install in 0.069 s 
+ 2018-02-10 10:11:53 HAPPENING : Build started 
+ 2018-02-10 10:11:54 HAPPENING : Build in 0.194 s 
+ 2018-02-10 10:11:59 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:11:59 HAPPENING : Install started 
+ 2018-02-10 10:11:59 HAPPENING : Install in 0.107 s 
+ 2018-02-10 10:11:59 HAPPENING : Build started 
+ 2018-02-10 10:11:59 HAPPENING : Build in 0.210 s 
+ 2018-02-10 10:12:56 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:12:56 HAPPENING : Install started 
+ 2018-02-10 10:12:56 HAPPENING : Install in 0.060 s 
+ 2018-02-10 10:12:56 HAPPENING : Build started 
+ 2018-02-10 10:12:57 HAPPENING : Build in 0.182 s 
+ 2018-02-10 10:15:06 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:15:06 HAPPENING : Install started 
+ 2018-02-10 10:15:06 HAPPENING : Install in 0.084 s 
+ 2018-02-10 10:15:06 HAPPENING : Build started 
+ 2018-02-10 10:15:07 HAPPENING : Build in 0.215 s 
+ 2018-02-10 10:15:12 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:15:12 HAPPENING : Install started 
+ 2018-02-10 10:15:12 HAPPENING : Install in 0.084 s 
+ 2018-02-10 10:15:12 HAPPENING : Build started 
+ 2018-02-10 10:15:12 HAPPENING : Build in 0.213 s 
+ 2018-02-10 10:16:13 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/main.go 
+ 2018-02-10 10:16:13 HAPPENING : Install started 
+ 2018-02-10 10:16:14 HAPPENING : Install in 0.284 s 
+ 2018-02-10 10:16:14 HAPPENING : Build started 
+ 2018-02-10 10:16:14 HAPPENING : Build in 0.250 s 
+ 2018-02-10 10:16:40 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:16:40 HAPPENING : Install started 
+ 2018-02-10 10:16:40 HAPPENING : Install in 0.088 s 
+ 2018-02-10 10:16:40 HAPPENING : Build started 
+ 2018-02-10 10:16:40 HAPPENING : Build in 0.270 s 
+ 2018-02-10 10:16:54 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/main.go 
+ 2018-02-10 10:16:55 HAPPENING : Install started 
+ 2018-02-10 10:16:55 HAPPENING : Install in 0.216 s 
+ 2018-02-10 10:16:55 HAPPENING : Build started 
+ 2018-02-10 10:16:56 HAPPENING : Build in 0.302 s 
+ 2018-02-10 10:17:00 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:17:01 HAPPENING : Install started 
+ 2018-02-10 10:17:01 HAPPENING : Install in 0.099 s 
+ 2018-02-10 10:17:01 HAPPENING : Build started 
+ 2018-02-10 10:17:01 HAPPENING : Build in 0.295 s 
+ 2018-02-10 10:17:22 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:17:23 HAPPENING : Install started 
+ 2018-02-10 10:17:23 HAPPENING : Install in 0.091 s 
+ 2018-02-10 10:17:23 HAPPENING : Build started 
+ 2018-02-10 10:17:23 HAPPENING : Build in 0.247 s 
+ 2018-02-10 10:17:46 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:17:46 HAPPENING : Install started 
+ 2018-02-10 10:17:46 HAPPENING : Install in 0.109 s 
+ 2018-02-10 10:17:46 HAPPENING : Build started 
+ 2018-02-10 10:17:47 HAPPENING : Build in 0.207 s 
+ 2018-02-10 10:18:16 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:18:17 HAPPENING : Install started 
+ 2018-02-10 10:18:17 HAPPENING : Install in 0.114 s 
+ 2018-02-10 10:18:17 HAPPENING : Build started 
+ 2018-02-10 10:18:17 HAPPENING : Build in 0.206 s 
+ 2018-02-10 10:24:15 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:24:16 HAPPENING : Install started 
+ 2018-02-10 10:24:16 HAPPENING : Install in 0.140 s 
+ 2018-02-10 10:24:16 HAPPENING : Build started 
+ 2018-02-10 10:24:16 HAPPENING : Build in 0.193 s 
+ 2018-02-10 10:24:52 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:24:53 HAPPENING : Install started 
+ 2018-02-10 10:24:53 HAPPENING : Install in 0.091 s 
+ 2018-02-10 10:24:53 HAPPENING : Build started 
+ 2018-02-10 10:24:53 HAPPENING : Build in 0.239 s 
+ 2018-02-10 10:25:09 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:25:10 HAPPENING : Install started 
+ 2018-02-10 10:25:10 HAPPENING : Install in 0.101 s 
+ 2018-02-10 10:25:10 HAPPENING : Build started 
+ 2018-02-10 10:25:10 HAPPENING : Build in 0.193 s 
+ 2018-02-10 10:25:23 HAPPENING : go changed /home/sam/go/src/github.com/samrocksc/happeningapi/models_test.go 
+ 2018-02-10 10:25:23 HAPPENING : Install started 
+ 2018-02-10 10:25:24 HAPPENING : Install in 0.083 s 
+ 2018-02-10 10:25:24 HAPPENING : Build started 
+ 2018-02-10 10:25:24 HAPPENING : Build in 0.249 s 
+ 
