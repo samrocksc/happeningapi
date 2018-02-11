@@ -1,0 +1,7 @@
+test:
+  driver: postgres
+  open: user=postgres password=postgres dbname=happening sslmode=disable
+
+development:
+  driver: postgres
+  open: user=postgres dbname=happening password=postgres sslmode=disable

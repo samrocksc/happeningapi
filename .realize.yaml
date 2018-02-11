@@ -1,27 +1,27 @@
 settings:
   files:
     outputs:
-      status: true
+      status: false
       path: ""
       name: .r.outputs.log
     logs:
-      status: true
+      status: false
       path: ""
       name: .r.logs.log
     errors:
-      status: true
+      status: false
       path: ""
       name: .r.errors.log
   legacy:
-    force: true
-    interval: 100ms
+    force: false
+    interval: 0s
 server:
   status: true
   open: true
   port: 5002
   host: localhost
 schema:
-- name: happening
+- name: /home/sam/go/src/github.com/samrocksc/happeningapi
   path: /home/sam/go/src/github.com/samrocksc/happeningapi
   commands:
     clean:
